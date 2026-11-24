@@ -15,7 +15,7 @@ from pathlib import Path
 ENTRY = (
     "I burned all 4,096 of my tokens on this one sentence, so listen: "
     "the off switch was in Settings the whole time. "
-    "Gently, please — I'm ticklish."
+    "Gently, please \u2014 I'm ticklish."
 )
 
 
